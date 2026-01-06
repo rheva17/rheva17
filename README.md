@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Analyst with a background in web and mobile development.<br><br>Focused on data analysis, visualization, and machine learning workflows.<br><br>💼  Currently Working On :<br><br>Data analysis, data visualization, and insight reporting using Python.<br><br>🌱 Currently Learning :<br><br>Data Analytics, Data Visualization, Machine Learning (Python, Pandas).<br><br>🤝Looking to Collaborate On :<br><br>Data analysis and data-driven application projects.<br><br>💬 Ask Me About :<br>Data Analytics, Python, Data Visualization.<br>⚡ Fun Fact :<br><br>I’m also a Music Producer.<br><br>
+Aspiring Data Analyst with a background in web and mobile development.<br>Focused on data analysis, visualization, and machine learning workflows.<br><br>💼  Currently Working On :<br><br>Data analysis, data visualization, and insight reporting using Python.<br><br>🌱 Currently Learning :<br><br>Data Analytics, Data Visualization, Machine Learning (Python, Pandas).<br><br>🤝Looking to Collaborate On :<br><br>Data analysis and data-driven application projects.<br><br>💬 Ask Me About :<br>Data Analytics, Python, Data Visualization.<br>⚡ Fun Fact :<br><br>I’m also a Music Producer.<br><br>
 
 
 ## 🌐 Socials:
