@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am sharing my journey of 90 days of my Internship into Junior Data Analyst by participating in Edusoft Center<br><br>
+I'm documenting my 90-day internship journey as a Junior Data Analyst at Edusoft Center.<br><br><br>
 
 Data Analytics is the process of processing and analyzing large amounts of data to uncover hidden patterns, previously unseen trends, and relationships between data, generating valuable insights to support business decision-making and forecasting.<br>
 
 With Data Analytics, companies can make more informed decisions, improve customer service, optimize operations, implement more effective marketing strategies, and increase overall work speed and efficiency.<br>
 
-In its application, businesses utilize various modern tools and technologies to perform data analysis. I am currently sharing my learning journey in Data Analytics by participating in Ken Jee's #66DaysofData challenge, as part of my commitment to continuously developing my data analytics skills.
+In its application, businesses utilize various modern tools and technologies to perform data analysis. I am currently sharing my learning journey in Data Analytics by participating in Edusoft Center as part of my commitment to continuously developing my data analytics skills.
 
 
 ## 🌐 Socials:
