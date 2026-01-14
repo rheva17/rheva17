@@ -36,7 +36,8 @@ In its application, businesses utilize various modern tools and technologies to 
 <br>
 
 <h2 align="left">My Certifications 📜</h2>
-- ## Belajar Dasar Data Science  — Dicoding Indonesia<br>
+
+- ## Belajar Dasar Data Science  — Dicoding Indonesia 
   🔗 Credential: https://www.dicoding.com/certificates/07Z6JJ7KJXQR<br>
   📅 Issued: October 2025<br>
 - ## Pemrograman Dasar Berstandar Industri — Dicoding Indonesia<br><br>
