@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm documenting my 90-day internship journey as a Junior Data Analyst at Edusoft Center.<br><br><br>
-
+I'm documenting my 90-day internship journey as a Junior Data Analyst at Edusoft Center.<br><br>
 Data Analytics is the process of processing and analyzing large amounts of data to uncover hidden patterns, previously unseen trends, and relationships between data, generating valuable insights to support business decision-making and forecasting.<br>
 
 With Data Analytics, companies can make more informed decisions, improve customer service, optimize operations, implement more effective marketing strategies, and increase overall work speed and efficiency.<br>
