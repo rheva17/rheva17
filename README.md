@@ -38,8 +38,8 @@ In its application, businesses utilize various modern tools and technologies to 
 <h2 align="left">My Certifications 📜</h2>
 
 - ## Belajar Dasar Data Science  — Dicoding Indonesia 
-  🔗 Credential: https://www.dicoding.com/certificates/07Z6JJ7KJXQR<br>
   📅 Issued: October 2025<br>
+  <a href="https://www.dicoding.com/certificates/07Z6JJ7KJXQR">🔗 Credential</a><br>
 - ## Pemrograman Dasar Berstandar Industri — Dicoding Indonesia
   🏅 Achievement: Very Competent<br>
   📅 Issued: November 2025<br>
