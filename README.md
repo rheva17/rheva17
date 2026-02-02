@@ -65,9 +65,10 @@ In its application, businesses utilize various modern tools and technologies to 
 ## Timeline
 
 |**Week :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------|--------------------|---------------------|
-|Day 1|                     |                     |
-|Day 2|                     |                     |
+|------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|Week 1| Sistem Jurnal Mengajar Harian Guru |(https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec?page=login)|
+|Week 2| Bot Telegeram Catatan Penjualan    |(https://t.me/+ASvFjED_7i41ZGI1)                                                                                            |
+|Week 3| Aplikasi CRUD Sistem Jadwal Kuliah |(https://www.appsheet.com/start/4d820213-2304-4b0c-ba02-269050be4640)                                                       |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/VionaRhema ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/v_anxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/viona-rhema-069b38378) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhevaa17/about-me-8f5c383851b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31469238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:vionarhema17@gmail.com) 
