@@ -73,6 +73,7 @@ In its application, businesses utilize various modern tools and technologies to 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/VionaRhema ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/v_anxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/viona-rhema-069b38378) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhevaa17/about-me-8f5c383851b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31469238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:vionarhema17@gmail.com) 
+[Github](https://github.com/VionaRhema17)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rheva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
