@@ -68,7 +68,7 @@ In its application, businesses utilize various modern tools and technologies to 
 |-------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 |Week 1 | Sistem Jurnal Mengajar Harian Guru |https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec?page=login  |
 |Week 2 | Bot Telegeram Catatan Penjualan    |https://t.me/+ASvFjED_7i41ZGI1                                                                                              |
-|Week 3 | Data Collection & Understanding    |https://www.appsheet.com/start/4d820213-2304-4b0c-ba02-269050be4640                                                         |
+|Week 3 | Data Collection & Understanding    |https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/                                   |
 |Week 4 | Aplikasi CRUD Sistem Jadwal Kuliah |https://www.appsheet.com/start/4d820213-2304-4b0c-ba02-269050be4640                                                         |
 
 ## 🌐 Socials:
