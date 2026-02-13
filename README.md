@@ -72,8 +72,9 @@ In its application, businesses utilize various modern tools and technologies to 
 |       |                                    | https://medium.com/@rhevaa17/belajar-sql-dari-nol-dasar-basis-data-rdbms-untuk-pemula-part-1-f9ccb27f0dfa                  |
 |Week 4 | Aplikasi CRUD Sistem Jadwal Kuliah |https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec          |
 |Week 5 | Aplikasi CRUD Pos Kasir            |https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f (Appsheet)                                              |
-|       |                                    |https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec          |
-|Week 6 | Sistem Absensi Deteksi Lokasi & Wajah |https://script.google.com/macros/s/AKfycbwyKkJ-Ik2ZA6q7B1D0tf87vij5INp5y7xlE2OdllQuwe2Su1Yf816Rq4C7qnqCzNvK/exec       |
+|       |                                    |https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec          |  
+|       |                                    |https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/ (Dokumentasi)                   |
+|Week 6 | Sistem Absensi Deteksi Lokasi & Wajah |https://script.google.com/macros/s/AKfycbwyKkJ-Ik2ZA6q7B1D0tf87vij5INp5y7xlE2OdllQuwe2Su1Yf816Rq4C7qnqCzNvK/exec         |
 |       |                                    |https://script.google.com/macros/s/AKfycbwyKkJ-Ik2ZA6q7B1D0tf87vij5INp5y7xlE2OdllQuwe2Su1Yf816Rq4C7qnqCzNvK/exec?page=admin (Halaman Admin)|
 
 ## 🌐 Socials:
