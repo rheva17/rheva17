@@ -59,8 +59,7 @@ In its application, businesses utilize various modern tools and technologies to 
 <br>
 
 ## My Projects👨‍💻
-<code>[Teacher's Daily Teaching Journal System](https://github.com/rheva17)</code> 📊<br>
-<code>[Sales Data Management Telegram Bot](https://github.com/rheva17)</code> 🗂️<br><br>
+
 
 ## Timeline
 
