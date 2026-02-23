@@ -67,8 +67,8 @@ In its application, businesses utilize various modern tools and technologies to 
 |-------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 |Week 1 | Sistem Jurnal Mengajar Harian Guru |https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec|
 |Week 2 | Bot Telegeram Catatan Penjualan    |https://t.me/+ASvFjED_7i41ZGI1                                                                                 |
-|Week 3 | Data Collection & Understanding    |https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/                                   |
-|       |                                    | https://medium.com/@rhevaa17/belajar-sql-dari-nol-dasar-basis-data-rdbms-untuk-pemula-part-1-f9ccb27f0dfa                  |
+|Week 3 | Data Collection & Understanding    |https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/ 
+https://medium.com/@rhevaa17/belajar-sql-dari-nol-dasar-basis-data-rdbms-untuk-pemula-part-1-f9ccb27f0dfa                  |
 |Week 4 | Aplikasi CRUD Sistem Jadwal Kuliah |https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec          |
 |Week 5 | Aplikasi CRUD Pos Kasir            |https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f (Appsheet) https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/ (Dokumentasi) https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec  |
 |Week 6 | Sistem Absensi Deteksi Lokasi & Wajah |https://script.google.com/macros/s/AKfycbwGxAsAC3GfBhYmyyfbpzgDgEvFlkewumvSuVETUk0nEicIHW8NAdCVi0Q58aiup0jD/exec     |
