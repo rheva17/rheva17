@@ -72,7 +72,7 @@ In its application, businesses utilize various modern tools and technologies to 
 | 🔴 Week 6 | 📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) |
 | 🟤 Week 7 | 🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
 | ⚫ Week 8 | 📊 Visualisasi Data | [🛍️ Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Data Penjualan Cafe](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
-| 🟣Week 9  | Reporting & Data StoryTelling | [📊 Spreadsheet](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 PPT](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
+| 🟣Week 9  | 📊 Reporting & Data StoryTelling | [📊 Spreadsheet](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 PPT](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
 | 🏆 Week 10 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
 
 ## 🌐 Socials:
