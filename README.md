@@ -60,20 +60,25 @@ In its application, businesses utilize various modern tools and technologies to 
 
 ## My Projects👨‍💻
 
+🤖 Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) 
+🛒 Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec)
+📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/)
+🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app)
+
+
+
 ## 🗓️ Timeline
 
 | **Week 📅** | **Lessons/Tasks Done ⏰** | **Reference Links 🔗** |
 |:---:|---|---|
-| 🟢 Week 1 | 📓 Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
-| 🟡 Week 2 | 🤖 Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) |
-| 🟠 Week 3 | 🗃️ Data Collection & Understanding | [🛢️ Blog - Data Collection & Understanding Learning Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · 🧹[Blog - Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/)|
-| 🔵 Week 4 | 🎓 Aplikasi CRUD Sistem Jadwal Kuliah | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
-| 🟣 Week 5 | 🛒 Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
-| 🔴 Week 6 | 📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/)|
-| 🟤 Week 7 | 🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
-| ⚫ Week 8 | 📊 Visualisasi Data | [🛍️ Visualisasi Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Visualisasi Data Penjualan Cafe](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
-| 🟣Week 9  | 📊 Reporting & Data StoryTelling | [📊Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Laporan PPT - Slides ](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
-| 🏆 Week 10 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| Tahap 1 | Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
+| Tahap 2  | 🗃️ Data Collection & Understanding | [🛢️ Blog - Data Collection & Understanding Learning Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · 🧹[Blog - Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/)|
+| Tahap 3 | Data Cleaning & Preparation | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
+| Tahap 4 | Exploratory Data Analysis | [🛍️ Visualisasi Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Visualisasi Data Penjualan Cafe]  |
+| Tahap 5 | Problem Solving & Business Question |   |
+| Tahap 6 | Reporting & Data StoryTelling | [📊Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Laporan PPT - Slides ](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
+| Tahap 7 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| Tahap 8 | Presentasi Akhir & Evaluasi | — |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/VionaRhema ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/v_anxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/viona-rhema-069b38378) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhevaa17/about-me-8f5c383851b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31469238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:vionarhema17@gmail.com) 
