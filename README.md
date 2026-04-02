@@ -61,10 +61,12 @@ In its application, businesses utilize various modern tools and technologies to 
 ## My Projects👨‍💻
 | **Project** | **Reference Links 🔗** |
 |:---:|---|
-| 🤖 Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) | 
-| 🛒 Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
-|📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) |
-| 🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
+| Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
+| Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) | 
+| Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
+| Aplikasi CRUD Sistem Jadwal Kuliah | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
+|Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) |
+| Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
 
 
 
@@ -73,7 +75,7 @@ In its application, businesses utilize various modern tools and technologies to 
 | **Week 📅** | **Lessons/Tasks Done ⏰** | **Reference Links 🔗** |
 |:---:|---|---|
 | Tahap 1 | Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
-| Tahap 2  | 🗃️ Data Collection & Understanding | [🛢️ Blog - Data Collection & Understanding Learning Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · 🧹[Blog - Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/)|
+| Tahap 2  | 🗃️ Data Collection & Understanding | [🛢️ Documentation - Data Collection & Understanding Learning Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · 🧹[Blog - Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/)|
 | Tahap 3 | Data Cleaning & Preparation | [🔗 Link Web App Sistem Jadwal Kuliah](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) · [📱 Aplikasi CRUD Kasir - AppSheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App Kasir POS](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec)|
 | Tahap 4 | Exploratory Data Analysis | [🛍️ Visualisasi Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Visualisasi Data Penjualan Cafe](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
 | Tahap 5 | Problem Solving & Business Question | [🗃️ Google Slides - Data Retail Superstore](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [🗃️ Google Slides - Data Cafe Sales](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing)|
