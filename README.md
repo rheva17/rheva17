@@ -60,10 +60,10 @@ In its application, businesses utilize various modern tools and technologies to 
 
 ## My Projects👨‍💻
 
-🤖 Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) 
-🛒 Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec)
-📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/)
-🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app)
+| 🤖 Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) | 
+| 🛒 Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi (https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App]  (https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
+|📍 Sistem Absensi Deteksi Lokasi & Wajah | [👤 Halaman Karyawan] (https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec) · [🔐 Halaman Admin](https://script.google.com/macros/s/AKfycbz3z7JDKCAYEJg97OzS4oRqZJCeNgSXt2vO6ONQ5lDNQb2WZyN3abibue2hiFPEB2kpzw/exec?page=admin) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) [🔗Preview Blog Dokumentasi](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) |
+| 🎵 Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
 
 
 
