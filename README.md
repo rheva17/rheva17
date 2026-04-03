@@ -1,100 +1,194 @@
-# 💫 About Me:
-I'm documenting my 90-days internship journey as a Junior Data Analyst at Edusoft Center.<br><br>
-Data Analytics is the process of processing and analyzing large amounts of data to uncover hidden patterns, previously unseen trends, and relationships between data, generating valuable insights to support business decision-making and forecasting.<br>
+<div align="center">
 
-With Data Analytics, companies can make more informed decisions, improve customer service, optimize operations, implement more effective marketing strategies, and increase overall work speed and efficiency.<br>
+# 👋 Hi, I'm Viona Rhema
 
-In its application, businesses utilize various modern tools and technologies to perform data analysis. I am currently sharing my learning journey in Data Analytics by participating in Edusoft Center as part of my commitment to continuously developing my data analytics skills.<br><br>
+### 🎓 Junior Data Analyst Intern @ Edusoft Center
+#### *Turning raw data into actionable business insights*
 
-# 💻 Technologies used :
-* <a href="https://docs.google.com/spreadsheets/u/0/">Google Spreadsheet</a><a href="https://coursera.org/share/064db4645159df788ad0b31abebf1556" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
-
-* <a href="https://developers.google.com/apps-script">Google Apps Script</a><a href="https://www.javatpoint.com/data-structure-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-line-4.svg" alt="Data Structure" width="25" height="25"/> </a>
-
-* <a href="https://www.javatpoint.com/dbms-tutorial">Database Management System (DBMS)</a><a href="https://www.javatpoint.com/dbms-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-base-11.svg" alt="DBMS" width="25" height="25"/> </a>
-
-* <a href="https://www.microsoft.com/en-us/sql-server">SQL Server</a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="28" height="22"/> </a>  |
-<a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="20"/> </a>  
-* <a href="https://www.mongodb.com/">MongoDB</a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="20"/> </a>
-* <a href="https://laragon.org/">Laragon</a>
-  <a href="https://laragon.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="laragon" width="25" height="20"/>
-  </a>
-* <a href="https://www.docker.com/">Docker</a>
-  <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="20"/>
-  </a>
-* <a href="https://public.tableau.com/app/profile/mrankitgupta">Tableau</a><a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/> </a>
-
-* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
-
-* ##### Python Libraries : <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a>
-<br>
-
-<h2 align="left">My Certifications 📜</h2>
-
-- ## Belajar Dasar Data Science  — Dicoding Indonesia 
-  📅 Issued: October 2025<br>
- 🔗 <a href="https://www.dicoding.com/certificates/07Z6JJ7KJXQR">Credential</a><br>
-- ## Pemrograman Dasar Berstandar Industri — Dicoding Indonesia
-  🏅 Achievement: Very Competent<br>
-  📅 Issued: November 2025<br>
-  📝 Type: Industry Competency Certification<br>
-  🔗 Certificate available upon request<br>
-- ## Study Case Bootcamp Data Analyst with SQL & Python — DQLab  
-  📅 Issued: October 2025  
-  🔗 <a href="https://academy.dqlab.id/Certificate_check/result/DQLABMB8SPAJFRTP">Credential</a><br>
-- ## Study Case Bootcamp Data Analyst with Excel — DQLab  
-  📅 Issued: October 2025  
-  🔗 <a href="https://academy.dqlab.id/Certificate_check/result/DQLABMB8EXCMAGGND">Credential</a><br>
-- ## Study Case Bootcamp Machine Learning & AI for Beginner — DQLab  
-  📅 Issued: October 2025  
-  🔗 <a href="https://academy.dqlab.id/Certificate_check/result/DQLABMB8MAIVCIONS">Credential</a><br>
-- ## Intro to Data Analytics — Revou
-  📅 Issued: July 2024<br>
-  📝 Type: 2 Weeks Certified Online Course<br>
-  🔗 Certificate available upon request<br><br>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<br>
-
-## My Projects👨‍💻
-| **Project** | **Reference Links 🔗** |
-|:---:|---|
-| Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
-| Bot Telegram Catatan Penjualan | [✈️ Link Bot Telegram](https://t.me/+ASvFjED_7i41ZGI1) | 
-| Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
-| Aplikasi CRUD Sistem Jadwal Kuliah | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
-| Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
-| Sistem Absensi Biometrik | [🔗 Link Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📄Check here for the description](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) |
-
-
-## 🗓️ Timeline Learning About Data Analyze
-
-| **Week 📅** | **Lessons/Tasks Done ⏰** | **Reference Links 🔗** |
-|:---:|---|---|
-| Tahap 1 | Sistem Jurnal Mengajar Harian Guru | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
-| Tahap 2  | 🗃️ Data Collection & Understanding | [🛢️ Documentation - Data Collection & Understanding Learning Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · 🧹[Blog - Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/)|
-| Tahap 3 | Data Cleaning & Preparation | [🗃️ Dataset - Hasil Cleaning Data Retail Store](https://docs.google.com/spreadsheets/d/1az6eZ3RDnXlOObBJYzNMs76FMNAmk07j/edit?usp=sharing&ouid=101839355358272436182&rtpof=true&sd=true) [🗃️ Dataset - Hasil Cleaning Data Cafe Sales]( https://docs.google.com/spreadsheets/d/193Tu9BQREDdg9w2lGUFGee0cb9astTx7/edit?usp=sharing&ouid=101839355358272436182&rtpof=true&sd=true) |
-| Tahap 4 | Exploratory Data Analysis | [🛍️ Visualisasi Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Visualisasi Data Penjualan Cafe](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
-| Tahap 5 | Problem Solving & Business Question | [🗃️ Google Slides - Data Retail Superstore](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [🗃️ Google Slides - Data Cafe Sales](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing)|
-| Tahap 6 | Reporting & Data StoryTelling |  [📊Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Laporan PPT - Slides ](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
-| Tahap 7 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) · [🔗 Sistem Absensi Biometrik](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) |
-| Tahap 8 | Presentasi Akhir & Evaluasi | — |
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/VionaRhema ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/v_anxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/viona-rhema-069b38378) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhevaa17/about-me-8f5c383851b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31469238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:vionarhema17@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viona-rhema-069b38378)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhevaa17/about-me-8f5c383851b9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v_anxr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/VionaRhema17)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31469238)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VionaRhema)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vionarhema17@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rheva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rheva17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rheva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 [![](https://visitcount.itsvg.in/api?id=rheva17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 💫 About Me
+
+I'm a passionate **Junior Data Analyst** currently on a **90-day internship journey** at **Edusoft Center**, where I'm transforming real-world business data into meaningful insights.
+
+> *"Data is the new oil — but only if you know how to refine it."*
+
+I believe that **Data Analytics** is more than just crunching numbers. It's the art of uncovering hidden patterns, previously unseen trends, and relationships within data to support smarter business decisions and reliable forecasting.
+
+**What drives me:**
+- 🔍 Curiosity to find the "why" behind every metric
+- 📊 Passion for turning messy datasets into clear visual stories
+- 🚀 Commitment to continuously improving my data analytics skillset
+- 🤝 Sharing knowledge and learning with the data community
+
+**What I bring to the table:**
+- End-to-end data workflow experience: from data collection & cleaning to EDA, visualization, and storytelling
+- Hands-on project experience with real business datasets (retail sales, cafe transactions, school administration)
+- Strong foundation in both SQL and Python for data manipulation and analysis
+- Ability to communicate insights clearly through dashboards and presentations
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 📊 Data Analysis & Visualization
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+### 🖥️ Scripting & Automation
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+### 📈 Analytics & BI Tools
+| Tool | Usage |
+|------|-------|
+| [Google Spreadsheet](https://docs.google.com/spreadsheets/u/0/) | Data processing, pivot tables, formulas |
+| [Google Apps Script](https://developers.google.com/apps-script) | Automation & web app development |
+| [Tableau](https://public.tableau.com/app/profile/mrankitgupta) | Interactive dashboards & data visualization |
+| [Looker Studio](https://lookerstudio.google.com/) | Business intelligence reports |
+| [Google AppSheet](https://www.appsheet.com/) | No-code app development |
+| [OpenRefine](https://openrefine.org/) | Data cleaning & transformation |
+| [Laragon](https://laragon.org/) | Local development environment |
+
+---
+
+## 📜 Certifications
+
+| # | Certification | Issuer | Date | Type |
+|---|--------------|--------|------|------|
+| 1 | **Belajar Dasar Data Science** | Dicoding Indonesia | Oct 2025 | [🔗 View Credential](https://www.dicoding.com/certificates/07Z6JJ7KJXQR) |
+| 2 | **Pemrograman Dasar Berstandar Industri** | Dicoding Indonesia | Nov 2025 | Industry Competency *(Very Competent)* |
+| 3 | **Study Case Bootcamp: Data Analyst with SQL & Python** | DQLab | Oct 2025 | [🔗 View Credential](https://academy.dqlab.id/Certificate_check/result/DQLABMB8SPAJFRTP) |
+| 4 | **Study Case Bootcamp: Data Analyst with Excel** | DQLab | Oct 2025 | [🔗 View Credential](https://academy.dqlab.id/Certificate_check/result/DQLABMB8EXCMAGGND) |
+| 5 | **Study Case Bootcamp: Machine Learning & AI for Beginner** | DQLab | Oct 2025 | [🔗 View Credential](https://academy.dqlab.id/Certificate_check/result/DQLABMB8MAIVCIONS) |
+| 6 | **Intro to Data Analytics** | Revou | Jul 2024 | 2-Week Certified Online Course |
+
+---
+
+## 🗓️ 90-Day Internship Learning Timeline
+
+> My structured learning path as a **Junior Data Analyst** at Edusoft Center, covering the full data analytics workflow from data collection to final presentation.
+
+| Stage | Focus Area | Deliverables & Links |
+|:-----:|-----------|---------------------|
+| **Tahap 1** | 🏫 Real-World App Development | [🔗 Sistem Jurnal Mengajar Harian Guru](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
+| **Tahap 2** | 🗃️ Data Collection & Understanding | [📖 Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · [📝 Blog: Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/) |
+| **Tahap 3** | 🧹 Data Cleaning & Preparation | [🛍️ Retail Store Dataset](https://docs.google.com/spreadsheets/d/1az6eZ3RDnXlOObBJYzNMs76FMNAmk07j/edit?usp=sharing) · [☕ Cafe Sales Dataset](https://docs.google.com/spreadsheets/d/193Tu9BQREDdg9w2lGUFGee0cb9astTx7/edit?usp=sharing) |
+| **Tahap 4** | 🔍 Exploratory Data Analysis (EDA) | [🛍️ Retail Sales Visualization](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Cafe Sales Visualization](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
+| **Tahap 5** | 💡 Problem Solving & Business Questions | [🛍️ Retail Superstore Slides](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [☕ Cafe Sales Slides](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing) |
+| **Tahap 6** | 📖 Reporting & Data Storytelling | [📊 Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Presentation Slides](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
+| **Tahap 7** | 🚀 Final Project & Portfolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog Post](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| **Tahap 8** | 🎤 Final Presentation & Evaluation | — *(In Progress)* |
+
+---
+
+## 👨‍💻 Projects
+
+### 🔬 Data Analytics Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Superstore Data Analysis** | End-to-end analysis of retail dataset using Python & Excel — from raw data to business insights | [🐙 Repo](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| **EDA - Retail Store** | Exploratory data analysis & visualization of retail sales data using Looker Studio | [📊 Dashboard](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) |
+| **EDA - Cafe Sales** | Exploratory data analysis & visualization of cafe transaction data | [📊 Dashboard](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
+
+### ⚙️ App Development Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Sistem Jurnal Mengajar Harian Guru** | Daily teaching journal system built with Google Apps Script | [🔗 Web App](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
+| **Bot Telegram Catatan Penjualan** | Telegram bot for recording sales transactions | [✈️ Telegram Bot](https://t.me/+ASvFjED_7i41ZGI1) |
+| **Aplikasi CRUD Pos Kasir** | Digital cashier POS application with CRUD operations | [📱 AppSheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
+| **Aplikasi CRUD Sistem Jadwal Kuliah** | University lecture schedule management system | [🔗 Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
+| **Web App Notator** | Music notation web application | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
+| **Sistem Absensi Biometrik** | Smart attendance system with facial recognition & GPS built on Google Apps Script | [🔗 Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📄 Blog](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) · [🐙 Repo](https://github.com/rheva17/AbsensiBiometrik) |
+
+---
+
+## 🔍 Data Analytics Skills Breakdown
+
+```
+Data Collection & Understanding   ████████████████████░░   85%
+Data Cleaning & Preparation       ███████████████████░░░░   80%
+Exploratory Data Analysis (EDA)   ████████████████████░░░   82%
+Data Visualization (Looker/Tableau)████████████████████░░░   83%
+SQL (MySQL / SQL Server)          ██████████████████░░░░░   76%
+Python (Pandas, NumPy)            ████████████████░░░░░░░   70%
+Business Problem Solving          ███████████████████░░░░   80%
+Data Storytelling & Reporting     ████████████████████░░░   83%
+Google Apps Script / Automation   █████████████████████░░   88%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rheva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rheva17&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rheva17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing data, analytics projects, collaboration opportunities, or just talking about tech. Feel free to reach out!
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/viona-rhema-069b38378](https://linkedin.com/in/viona-rhema-069b38378) |
+| ✍️ Medium | [@rhevaa17](https://medium.com/@rhevaa17/about-me-8f5c383851b9) |
+| 📧 Email | [vionarhema17@gmail.com](mailto:vionarhema17@gmail.com) |
+| 🐙 GitHub | [VionaRhema17](https://github.com/VionaRhema17) |
+| 📸 Instagram | [@v_anxr](https://instagram.com/v_anxr) |
+
+</div>
+
+---
+
+<div align="center">
+  <i>✨ Currently on a 90-day data analytics internship journey — documenting every step of the way! ✨</i>
+  <br><br>
+  <b>Open to: Collaborations · Feedback · Opportunities</b>
+</div>
