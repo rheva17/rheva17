@@ -103,26 +103,18 @@ I believe that **Data Analytics** is more than just crunching numbers. It's the 
 
 | Stage | Focus Area | Deliverables & Links |
 |:-----:|-----------|---------------------|
-| **Tahap 1** | 🏫 Real-World App Development | [🔗 Sistem Jurnal Mengajar Harian Guru](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
-| **Tahap 2** | 🗃️ Data Collection & Understanding | [📖 Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · [📝 Blog: Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/) |
-| **Tahap 3** | 🧹 Data Cleaning & Preparation | [🛍️ Retail Store Dataset](https://docs.google.com/spreadsheets/d/1az6eZ3RDnXlOObBJYzNMs76FMNAmk07j/edit?usp=sharing) · [☕ Cafe Sales Dataset](https://docs.google.com/spreadsheets/d/193Tu9BQREDdg9w2lGUFGee0cb9astTx7/edit?usp=sharing) |
-| **Tahap 4** | 🔍 Exploratory Data Analysis (EDA) | [🛍️ Retail Sales Visualization](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Cafe Sales Visualization](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
-| **Tahap 5** | 💡 Problem Solving & Business Questions | [🛍️ Retail Superstore Slides](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [☕ Cafe Sales Slides](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing) |
-| **Tahap 6** | 📖 Reporting & Data Storytelling | [📊 Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Presentation Slides](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
-| **Tahap 7** | 🚀 Final Project & Portfolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog Post](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
-| **Tahap 8** | 🎤 Final Presentation & Evaluation | — *(In Progress)* |
+| **Tahap 1** |  Real-World App Development | [🔗 Sistem Jurnal Mengajar Harian Guru](https://script.google.com/macros/s/AKfycbyJFknGkqwzalcqHx1CKmRW97hFySlaUuAGGpYpq-sdX0m_EY8EcMRmfVEcy3Cjc2w/exec) |
+| **Tahap 2** | Data Collection & Understanding | [📖 Documentation](https://rheva17.github.io/Data-Collection_Understanding/) · [📝 Blog: Data Cleaning & OpenRefine](https://edusoftcenter.com/memahami-data-cleaning-dan-transformasi-menggunakan-openrefine/) |
+| **Tahap 3** | Data Cleaning & Preparation | [🛍️ Retail Store Dataset](https://docs.google.com/spreadsheets/d/1az6eZ3RDnXlOObBJYzNMs76FMNAmk07j/edit?usp=sharing) · [☕ Cafe Sales Dataset](https://docs.google.com/spreadsheets/d/193Tu9BQREDdg9w2lGUFGee0cb9astTx7/edit?usp=sharing) |
+| **Tahap 4** | Exploratory Data Analysis (EDA) | [🛍️ Retail Sales Visualization](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Cafe Sales Visualization](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
+| **Tahap 5** | Problem Solving & Business Questions | [🛍️ Retail Superstore Slides](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [☕ Cafe Sales Slides](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing) |
+| **Tahap 6** | Reporting & Data Storytelling | [📊 Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Presentation Slides](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
+| **Tahap 7** | Final Project & Portfolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog Post](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| **Tahap 8** | Final Presentation & Evaluation | —  |
 
 ---
 
 ## 👨‍💻 Projects
-
-### 🔬 Data Analytics Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Superstore Data Analysis** | End-to-end analysis of retail dataset using Python & Excel — from raw data to business insights | [🐙 Repo](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
-| **EDA - Retail Store** | Exploratory data analysis & visualization of retail sales data using Looker Studio | [📊 Dashboard](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) |
-| **EDA - Cafe Sales** | Exploratory data analysis & visualization of cafe transaction data | [📊 Dashboard](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
 
 ### ⚙️ App Development Projects
 
@@ -134,6 +126,15 @@ I believe that **Data Analytics** is more than just crunching numbers. It's the 
 | **Aplikasi CRUD Sistem Jadwal Kuliah** | University lecture schedule management system | [🔗 Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
 | **Web App Notator** | Music notation web application | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
 | **Sistem Absensi Biometrik** | Smart attendance system with facial recognition & GPS built on Google Apps Script | [🔗 Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📄 Blog](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) · [🐙 Repo](https://github.com/rheva17/AbsensiBiometrik) |
+
+
+### 🔬 Data Analytics Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Superstore Data Analysis** | End-to-end analysis of retail dataset using Python & Excel — from raw data to business insights | [🐙 Repo](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| **EDA - Retail Store** | Exploratory data analysis & visualization of retail sales data using Looker Studio | [📊 Dashboard](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) |
+| **EDA - Cafe Sales** | Exploratory data analysis & visualization of cafe transaction data | [📊 Dashboard](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
 
 ---
 
