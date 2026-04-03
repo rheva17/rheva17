@@ -79,7 +79,7 @@ In its application, businesses utilize various modern tools and technologies to 
 | Tahap 4 | Exploratory Data Analysis | [🛍️ Visualisasi Data Penjualan Retail](https://lookerstudio.google.com/reporting/ac0c70c0-9dc9-4bbd-b23e-7d1f0d360f45) · [☕ Visualisasi Data Penjualan Cafe](https://lookerstudio.google.com/reporting/00fe159f-41a2-4db0-b7eb-cda586ac759b) |
 | Tahap 5 | Problem Solving & Business Question | [🗃️ Google Slides - Data Retail Superstore](https://docs.google.com/presentation/d/1iBopLKVKYythFW2LC84IIiVuT_glJ4z7YM374vrzPts/edit?usp=sharing) · [🗃️ Google Slides - Data Cafe Sales](https://docs.google.com/presentation/d/1aoFni8zwFfTpZ_PPx9lzY1P9bzkrh_dRdMtJdav76lk/edit?usp=sharing)|
 | Tahap 6 | Reporting & Data StoryTelling |  [📊Dashboard](https://docs.google.com/spreadsheets/d/1pYaqP4_Ft6dquBaWMpcDdDgvMl-Jsgz0RDDHXK_ukI8/edit?usp=sharing) · [📑 Laporan PPT - Slides ](https://docs.google.com/presentation/d/1TJQbCrKSGWDHxIkheDUJi8FrOZX11lDMDU9MSvdKFf8/edit?usp=sharing) |
-| Tahap 7 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) |
+| Tahap 7 | 🚀 Final Project & Portofolio | [🐙 Repository](https://github.com/rheva17/superstore-data-analysis) · [✍️ Blog](https://edusoftcenter.com/dari-data-mentah-ke-insight-bisnis-analisis-lengkap-dataset-retail-dengan-python-excel/) · [🔗 Sistem Absensi Biometrik](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) |
 | Tahap 8 | Presentasi Akhir & Evaluasi | — |
 
 ## 🌐 Socials:
