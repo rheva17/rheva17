@@ -66,7 +66,7 @@ In its application, businesses utilize various modern tools and technologies to 
 | Aplikasi CRUD Pos Kasir | [📱 Appsheet](https://www.appsheet.com/start/8a8301e5-4be6-44a4-b908-930978d1022f) · [📄 Blog Dokumentasi](https://edusoftcenter.com/transformasi-kasir-manual-ke-digital-menggunakan-google-appsheet/) · [🔗 Link Web App](https://script.google.com/macros/s/AKfycbwS81rWyo3Dv7s6zgwieFc2zfMA29IzfQaemD6dFpZGsQNRJSAti1zF95c1IeN0h-PW4A/exec) |
 | Aplikasi CRUD Sistem Jadwal Kuliah | [🔗 Link Web App](https://script.google.com/macros/s/AKfycbx0lapy38DjRcLmBpxbrMNxov5RAevtdp8zD46C-cp0Tcwgb9d12gZXWiIh-AS46ZavUw/exec) |
 | Web App Notator | [🐙 Repository](https://github.com/rheva17/music-notator-app) |
-| Sistem Absensi Biometrik | [🔗 Link Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) [[📄Check here for the description](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) |
+| Sistem Absensi Biometrik | [🔗 Link Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📄Check here for the description](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) |
 
 
 ## 🗓️ Timeline Learning About Data Analyze
