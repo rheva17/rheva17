@@ -69,7 +69,7 @@ In its application, businesses utilize various modern tools and technologies to 
 | Sistem Absensi Biometrik | [🔗 Link Web App](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📄Check here for the description](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/) · [🐙 Repository](https://github.com/rheva17/AbsensiBiometrik) |
 
 
-## 🗓️ Timeline Learning About Data Analyze
+## 🗓️ Timeline Learning About Data Analysis
 
 | **Week 📅** | **Lessons/Tasks Done ⏰** | **Reference Links 🔗** |
 |:---:|---|---|
